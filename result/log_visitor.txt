@@ -1,0 +1,31 @@
+[05:13:00pm - 174.74.140.82 - United States - Chrome - Windows 10] Mengunjungi Scampage
+[05:13:21pm - 47.75.104.255 - Hong Kong - Chrome - Mac OS X] Mengunjungi Scampage
+[05:13:50pm - 125.81.163.214 - China - Handheld Browser - iPhone] Mengunjungi Scampage
+[05:23:36pm - 47.75.104.255 - Hong Kong - Chrome - Mac OS X] Mengunjungi Scampage
+[05:13:43am - 192.168.1.160 -  - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[05:15:31am - 192.168.1.160 -  - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[05:19:22am - 192.168.1.160 -  - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[10:35:53pm - 52.253.96.209 - Japan - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[10:36:00pm - 52.253.96.209 - Japan - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[10:36:19pm - 35.82.31.216 - United States - Chrome - Mac OS X] Ada bot (Gagal Masuk Site Parameter)
+[10:36:37pm - 52.253.96.209 - Japan - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[10:38:34pm - 52.253.96.209 - Japan - Chrome - Windows 10] Mengunjungi Scampage
+[10:38:51pm - 52.253.96.209 - Japan - Chrome - Windows 10] Login Apple ID
+[10:38:55pm - 52.253.96.209 - Japan - Chrome - Windows 10] Membuka Form Credit Card
+[10:39:55pm - 52.253.96.209 - Japan - Chrome - Windows 10] Mengisi Credit Card
+[10:39:57pm - 52.253.96.209 - Japan - Chrome - Windows 10] Selesai Mengisi Data
+[10:41:19pm - 52.253.96.209 - Japan - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[10:50:49pm - 52.253.96.209 - Japan - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[10:50:56pm - 52.253.96.209 - Japan - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[10:50:59pm - 52.253.96.209 - Japan - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[10:51:17pm - 52.253.96.209 - Japan - Chrome - Windows 10] Mengunjungi Scampage
+[10:52:09pm - 98.126.213.16 - United States - Chrome - Windows 10] Mengunjungi Scampage
+[11:04:19pm - 52.141.3.20 - South Korea - Chrome - Windows 10] Mengunjungi Scampage
+[11:04:42pm - 52.141.3.20 - South Korea - Chrome - Windows 10] Mengunjungi Scampage
+[11:04:46pm - 52.253.96.209 - Japan - Chrome - Windows 10] Mengunjungi Scampage
+[08:14:37pm -  - Poland - Firefox - Ubuntu] Mengunjungi Scampage
+[08:14:43pm -  - Poland - Firefox - Ubuntu] Mengunjungi Scampage
+[08:17:09pm -  - Poland - Firefox - Ubuntu] Mengunjungi Scampage
+[08:21:24pm -  -  - Firefox - Ubuntu] Mengunjungi Scampage
+[08:28:50pm -  -  - Firefox - Ubuntu] Mengunjungi Scampage
+[08:34:26pm -  -  - Firefox - Ubuntu] Mengunjungi Scampage

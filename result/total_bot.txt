@@ -1,0 +1,51 @@
+142.93.116.114|User Agent
+35.230.61.245|Hostname
+179.43.169.182|Google Safebrowsing
+179.43.169.182|Google Safebrowsing
+149.154.161.8|Bot Crawler
+150.129.8.11|Bot Crawler
+179.43.169.182|Google Safebrowsing
+179.43.169.182|Google Safebrowsing
+65.154.226.109|Referrer Block
+179.43.169.182|Google Safebrowsing
+65.154.226.109|ISP
+167.71.79.24|Referrer Block
+148.251.45.170|Referrer Block
+64.225.125.9|ISP
+64.225.125.9|ISP
+148.251.45.170|Referrer Block
+65.154.226.100|ISP
+185.220.70.153|Referrer Block
+87.115.231.170|Referrer Block
+185.220.70.153|Referrer Block
+87.115.231.170|Referrer Block
+87.115.231.170|Bot Crawler
+185.220.70.153|Bot Crawler
+212.92.108.54|Referrer Block
+87.115.231.170|Referrer Block
+148.251.45.170|Referrer Block
+69.164.111.198|IP Range
+91.103.66.206|IP Range
+91.103.66.206|IP Range
+52.59.102.42|Hostname
+34.222.179.30|Hostname
+54.184.91.244|Bot Crawler
+54.187.169.163|Hostname
+69.164.145.168|Hostname
+69.164.145.168|Hostname
+69.164.145.168|Hostname
+148.251.45.170|Referrer Block
+65.154.226.100|ISP
+52.250.30.131|ISP
+91.103.66.206|Bot Crawler
+192.168.1.160|Wrong Site Parameter
+192.168.1.160|Wrong Site Parameter
+192.168.1.160|Wrong Site Parameter
+52.253.96.209|Wrong Site Parameter
+52.253.96.209|Wrong Site Parameter
+35.82.31.216|Wrong Site Parameter
+52.253.96.209|Wrong Site Parameter
+52.253.96.209|Wrong Site Parameter
+52.253.96.209|Wrong Site Parameter
+52.253.96.209|Wrong Site Parameter
+52.253.96.209|Wrong Site Parameter
